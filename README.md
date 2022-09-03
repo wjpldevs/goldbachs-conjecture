@@ -1,1 +1,1 @@
-# goldbachs-conjecture
+# goldbachs-conjecture project
